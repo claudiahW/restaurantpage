@@ -54,10 +54,15 @@
   margin-top: 30px;
   margin-left: 100px;
   text-align: center;
+  font-weight: bold;
   background-color: aqua;
   color: #fff;
   border: none;
   outline: none;
   border-radius: 30px;
   transition: 0.5s;
+}
+.hero-wrapper .form-code button:hover {
+    background-color: transparent;
+    border: 2px solid black;
 }
