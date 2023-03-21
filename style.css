@@ -24,12 +24,19 @@ position: relative;
 
 }
 .hero-wrapper h1{
-    font-size: 60px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
     color: red;
 }
 .hero-wrapper p{
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.hero-wrapper form-code{
+    display: block;
+    width: 80%;
+    margin: 0 auto 0 auto;
 }
